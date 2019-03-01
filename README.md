@@ -1,7 +1,7 @@
 CMakeLatex
 ==========
 
-Simple CMake configuration for Latex.. NOT ANYMORE
+Simple CMake configuration for Latex
 
 This is a fork of the UseLATEX.cmake project of Kenneth Moreland. This project will not necessarily follow the upstream project.
 
